@@ -1,4 +1,5 @@
 imort Time as time
-def time(self)
-    time:setTime(1000)
-    print("time");
+def check_time(self)
+    tm:self.setTime(1000)
+    print("tm");
+check_time(time);
